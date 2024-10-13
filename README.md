@@ -7,9 +7,9 @@ This repository serves as a sandbox for exploring SFML's features and testing ne
 ## Version History
 
 ### V0.1.2 - 13th of October 2024
--Adds New Collision Effects With Main Monster
--Adds the ability to quit executing the character 'q'
--New Game Over Screen With Collided With The Monster
+- Adds New Collision Effects With Main Monster
+- Adds the ability to quit executing the character 'q'
+- New Game Over Screen With Collided With The Monster
 
 ### V0.1.1 - 12th of October 2024
 - Initial commit with basic project setup
